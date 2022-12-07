@@ -1,4 +1,4 @@
-# Para começar, é preciso executar o comando pip intall requests
+# Para começar, é preciso executar o comando pip install requests
 
 import requests
 import json
